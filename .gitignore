@@ -90,4 +90,10 @@ ENV/
 
 # settings
 settings
-settings.*
+settings.py
+
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/qicaishuo.iml
+.idea/workspace.xml
